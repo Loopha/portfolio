@@ -131,7 +131,7 @@ html {
     display: flex;
     background: url(cyber.png) no-repeat center;
     background-size:cover;
-    background-color:whitesmoke;  /* delete this one when u insert background img  */
+    background-color:whitesmoke;  
     height: 100vh;
     color: black;
     min-height: 500px;
