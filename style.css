@@ -129,7 +129,7 @@ html {
 
 .home{
     display: flex;
-    background: url(image/cyber.png) no-repeat center;
+    background: url(cyber.png) no-repeat center;
     background-size:cover;
     background-color:whitesmoke;  /* delete this one when u insert background img  */
     height: 100vh;
